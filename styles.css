@@ -97,7 +97,7 @@
     font-weight: 600;
     padding: 8px 16px;
     border: 2px solid var(--outer-space);
-    border-radius: 50px;
+    border-radius: 27px;
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
